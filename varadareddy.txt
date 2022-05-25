@@ -1,0 +1,6 @@
+echo 'this is a test' > varadareddy.txt
+git status
+clear
+ppwd
+/
+q
